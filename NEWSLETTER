@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BOLETIM INFORMATIVO</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+</head>
+<body>
+
+    <div class="container">
+    	<!-- LOGO DO CABEÇALHO -->
+    	    <div> <header class="newsletter-padrao"> 
+        		<img src="img/cabeçalho-newsletter.jpg" alt="logo" class="imagem-cabecalho">
+    		</header> </div>
+        <!-- CABEÇALHO DA PÁGINA -->
+        <div class="cabeçalho">
+            <!-- DATA DO BOLETIM -->
+            <h1 class="titulo-principal">BOLETIM INFORMATIVO 30/07/2024</h1>
+            <!-- APRESENTAÇÃO PADRÃO -->
+            <p class="paragrafo-principal-1">Boa tarde! Como vai você?</p>
+            <p class="paragrafo-principal-2">
+                Chegamos a mais uma sexta-feira e temos muitas novidades para compartilhar com você. 
+                Fique por dentro das últimas atualizações da nossa comunidade.
+            </p>
+        </div>
+
+        <!-- DESTAQUES DA SEMANA -->
+        <div>
+            <p class="destaques_sao">Os destaques são:</p>
+            <!-- PRIMEIRA NOTÍCIA -->
+            <a href="#campanha-agasalho" class="destaques_da_semana">🧣 Campanha do agasalho</a>
+            <br>
+            <!-- SEGUNDA NOTÍCIA -->
+            <a href="#setor-projetos" class="destaques_da_semana">💻 Novo setor de Projetos & Planejamento</a>
+            <br>
+            <!-- TERCEIRA NOTÍCIA -->
+            <a href="#novos-funcionarios" class="destaques_da_semana">👨‍💼 Novos funcionários</a>
+            <br>
+            <p class="boa_leitura">Boa semana e ótima leitura!</p>
+        </div>
+         <br>
+        <!-- PRIMEIRA NOTÍCIA -->
+        <div class="borda-cinza1">
+	        <div id="campanha-agasalho">
+	            <h2 class="titulo-noticia-1">CAMPANHA DO AGASALHO</h2>
+	            <!-- IMAGEM PRIMEIRA NOTÍCIA -->
+	            <div class="img-destaque-1">
+	                <img src="img/cpa.png" alt="Campanha do Agasalho">
+	            </div>
+	            <!-- TEXTO PRIMEIRA NOTÍCIA -->
+	            <p class="paragrafo-noticia-1">
+	                <strong>A Campanha do Agasalho da SMTI</strong> é uma oportunidade valiosa para demonstrarmos nossa solidariedade e contribuir para o bem-estar da comunidade.
+	                Neste inverno, muitas pessoas enfrentam condições extremas e necessitam de apoio para se manterem aquecidas e confortáveis. <strong>Sua colaboração é essencial</strong> para fazer a diferença na vida dessas pessoas. Pedimos que todos participem trazendo roupas e cobertores em bom estado para os pontos de coleta espalhados pela cidade. Cada contribuição, por menor que seja, pode transformar o inverno de alguém em um período mais suportável e digno. Agradecemos desde já seu empenho e generosidade, que são fundamentais para o sucesso da campanha e para a construção de uma sociedade mais unida e acolhedora.
+	            </p>
+	            <br>
+	            <br>
+	            <br>
+	        </div>
+        </div>
+        <!-- SEGUNDA NOTÍCIA -->
+        <div class="borda-cinza2">
+	        <div id="setor-projetos">
+	            <h2 class="titulo-noticia-2">SETOR DE PROJETOS & PLANEJAMENTO!</h2>
+	            <!-- IMAGEM SEGUNDA NOTÍCIA -->
+	            <div class="img-destaque-2">
+	                <img src="img/logo_projetos.jpg" alt="Setor de Projetos e Planejamento">
+	            </div>
+	            <!-- TEXTO SEGUNDA NOTÍCIA -->
+	            <p class="paragrafo-noticia-2">
+	                Temos o prazer de anunciar a inauguração do nosso <strong>novo Setor de Projetos e Planejamentos</strong>, que ocorrerá no <strong>dia 05 de agosto de 2024</strong>. 
+	                Este novo setor foi criado para aprimorar a gestão e a coordenação de projetos, trazendo maior eficiência e inovação para nossas iniciativas. 
+	                Fique atento às novidades que surgirão a partir desta data e acompanhe o impacto positivo que essa nova estrutura trará para a SMTI e nossa comunidade.
+	            </p>
+	            <br>
+	            <br>
+	            <br>
+       		</div>
+    	</div>
+        <!-- TERCEIRA NOTICIA NOTÍCIA -->
+        <div class="borda-cinza2">
+	        <div id="novos-funcionarios">
+	            <h2 class="titulo-noticia-3">BOAS-VINDAS AOS NOVOS INTEGRANTES!</h2>
+	            <!-- IMAGEM TERCEIRA NOTÍCIA -->
+	            <div class="img-destaque-3">
+	                <img src="img/funcionario-novo.avif" alt="Novos funcionários">
+	                <img src="img/foto-amanda.jpg" alt="Novos funcionários">
+	                <img src="img/PEDRO-FOTO.jpg" alt="Novos funcionários">
+	                <img src="img/CARLOS-FOTO.jpg" alt="Novos funcionários">
+	                <img src="img/FELIPE-FOTO.webp" alt="Novos funcionários">
+	            </div>
+	            <!-- TEXTO TERCEIRA NOTÍCIA -->
+	            <p class="paragrafo-noticia-3">
+	                Estamos empolgados em anunciar a chegada de novos membros à nossa equipe:
+	                <p></p>
+					[Nome do Funcionário 1] – [setor] 
+					<br>
+					[Nome do Funcionário 2] – [setor] 
+					<br>
+					[Nome do Funcionário 3] – [setor] 
+					<br>
+					[Nome do Funcionário 4] – [setor] 
+					<br>
+					[Nome do Funcionário 5] – [setor] 
+					<p></p>
+					Cada um traz experiências valiosas e estamos ansiosos para ver o impacto positivo que terão em nossos projetos. Por favor, juntem-se a nós na recepção calorosa desses novos colegas!
+
+					Bem-vindos à equipe!
+	            </p>
+	        </div>
+    	</div>
+
+    	    <!-- RODAPÉ -->
+	    <footer class="rodape">
+	        <p>PM de Santana de Parnaíba - Av. Marechal Mascarenhas de Moraes, 1283 - Sítio do Morro</p>
+	        <p>Expediente de segunda a sexta-feira das 8h às 17h</p>
+	        <p>fone: (11) 4622-7500 - CEP: 06517-520 - Santana de Parnaíba - SP</p>
+	    </footer>
+
+    </div>
+</body>
+</html>
+
