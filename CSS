@@ -1,0 +1,221 @@
+/* PROJETO 0000000000000 */
+
+html {
+	font-family: arial;
+	background-color: #f4f4f4;
+	scroll-behavior: smooth;
+
+
+/* CONTAINER 000000000000 */ 
+
+.container {
+	max-width: 45rem;
+	background-color: #fff; 
+	position: flex;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1.25rem 3.125rem;
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	border-radius: 1rem;
+	overflow: auto;
+}
+
+
+/* LOGO CABEÇALHO */
+
+.logo-newsletter {
+    width-left: 100%;
+    overflow: hidden; 
+    margin: 0; 
+    padding: 0; 
+}
+
+.imagem-cabecalho {
+    display: block; 
+    width: 100%; 
+    height: auto; 
+}
+
+
+
+/* CABEÇALHO 0000000000000 */
+ 
+.cabeçalho {
+	text-align: center;
+    margin-bottom: 1.25rem;
+}
+
+
+.titulo-principal {
+	color: #011e87
+}
+
+
+.paragrafo-principal-1{
+	font-weight: bold;
+	font-size: 1.3rem;
+}
+
+
+.paragrafo-principal-2 {
+    margin-top: 0.625rem;
+    margin-bottom: 0.625rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+    font-size: 1.2rem;
+}
+
+
+.destaques_sao {
+    font-weight: bold;
+    margin-bottom: 0.625rem;
+    font-size: 1.25rem;
+}
+
+
+.destaques_da_semana {
+    margin-top: 0.312rem;
+    margin-bottom: 0.312rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+    color: #0a3df5;
+    font-weight: bold;
+}
+
+
+.boa_leitura {
+	font-size: 1.25rem;
+	font-weight: bold;
+}
+
+
+
+/*TITULOS DAS NOTICIAS 0000000*/
+
+h2 {
+    padding-bottom: 0.6rem;
+    margin-top: 1.25rem;
+}
+
+p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 0.5rem;
+}
+
+
+/*PRIMEIRA NOTICIA 00000000000*/
+
+ .img-destaque-1 img {
+	float: left; 
+    margin-right: 1rem; 
+    width: 20rem; 
+    height: 30rem; 
+}
+
+
+.paragrafo-noticia-1 {
+	font-size: 1.05rem;
+}
+
+ 
+
+/*SEGUNDA NOTICIA 0000000000 */
+
+.img-destaque-2 img {
+	float: right; 
+    margin-left: 1rem; 
+	width: 15rem; 
+	height: 15rem;
+}
+
+.paragrafo-noticia-2 {
+	font-size: 1.05rem;
+}
+
+
+
+/*TERCEIRA NOTICIA 0000000000 */
+
+
+.img-destaque-3 img {
+	width: 8.0rem; 
+	height: 12.5rem;
+	margin-right: 0.1rem;
+	margin-top: 0.1rem;
+    vertical-align: middle;
+}
+
+.paragrafo-noticia-3 {
+	font-size: 1.1rem;
+}
+
+
+
+
+/* BORDAS CINZA 1 (EM CIMA E EMBAIXO)*/
+
+.borda-cinza1 {
+    border-top: 0.2rem  solid #919191; 
+    border-bottom: 0.2rem solid #919191; 
+    padding: 0.8rem; 
+    margin: 1.2rem 0;  
+}
+
+
+
+/* BORDAS CINZA 2 (SOMENTE EMBAIXO)*/
+
+.borda-cinza2 {
+    border-bottom: 0.2rem solid #919191; 
+    padding: 0.8rem; 
+    margin: 1.2rem 0; 
+}
+
+
+/* RODAPÉ */
+
+.rodape {
+    background-color: #3b4c78; 
+    color: #fff; 
+    padding: 0.8rem; 
+    text-align: center; 
+    margin-top: 1.2rem; 
+    border-radius: 1rem;
+}
+
+
+
+/*ID PARA CLICAR E DIRECIONAR 000000000*/	
+
+}
+
+#campanha-agasalho::before {
+    content: "";
+    display: block;
+    height: 2rem; 
+    margin-top: -2rem; 
+    visibility: hidden;
+}
+
+#setor-projetos::before {
+  content: "";
+    display: block;
+    height: 3rem; 
+    margin-top: -3rem; 
+    visibility: hidden;
+}
+
+#novos-funcionarios::before {
+  content: "";
+    display: block;
+    height: 2rem; 
+    margin-top: -2rem; 
+    visibility: hidden;
+}
+
+
+
+
+
